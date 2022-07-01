@@ -1,1 +1,1 @@
-worker: node . --session 'hiroka.json'
+worker: node . --session 'hisoka.json'
